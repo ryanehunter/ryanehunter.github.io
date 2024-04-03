@@ -8,7 +8,7 @@ I am a Mathematics Ph.D. student at the University of Kansas. My advisor is Emil
 
 ## Research Interests
 
-I work mainly in commutative algebra and homological algebra. Specifically, I am interested in local cohomology and related invariants. Occasionally I also dabble in geometry and combinatorics.
+I work mainly in commutative algebra and homological algebra. Specifically, I am interested in local cohomology and related invariants. I also dabble in geometry and combinatorics.
 
 ## News
 
