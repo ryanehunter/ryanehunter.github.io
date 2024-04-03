@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Mathematics Ph.D. student at the University of Kansas. My advisor is Emily Witt.  
+I am a Mathematics Ph.D. student at the University of Kansas. My advisor is <a href="https://witt.ku.edu">Emily Witt</a>.  
 
 ## Research Interests
 
