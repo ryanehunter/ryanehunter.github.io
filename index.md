@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Mathematics Ph.D. student at the University of Kansas. My advisor is <a href="https://witt.ku.edu">Emily Witt</a>.  
+I am a mathematics Ph.D. student at the University of Kansas. My advisor is <a href="https://witt.ku.edu">Emily Witt</a>. I received my bachelors degrees in mathematics and in chemical engineering from the University of Arkansas in Fayetteville. In my free time I enjoy cooking, cycling, and playing disc golf.
 
 ## Research Interests
 
