@@ -12,8 +12,7 @@ I work mainly in commutative algebra and homological algebra. Specifically, I am
 
 ## Where To Find Me
 - My office is 637 Snow Hall.
-- I will be attending KMGSC at Kansas State University on April 13-14th.
-- I will be (remotely) attending the "Recent Developments in Commutative Algebra" SLMath workshop April 15-19th.
+- I plan to keep this section updated for conferences I will be attending.
 
 
 
