@@ -12,6 +12,7 @@ I work mainly in commutative algebra and homological algebra. Specifically, I am
 
 ## Where To Find Me
 - My office is 637 Snow Hall.
+- I will be attending <a href="https://sites.google.com/view/kumunu-2024/home">KUMUNU</a> at the University of Missouri on September 28 and 29.
 - I plan to keep this section updated for conferences I will be attending.
 
 
