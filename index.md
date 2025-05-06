@@ -12,7 +12,9 @@ I work mainly in commutative algebra and homological algebra. Specifically, I am
 
 ## Where To Find Me
 - My office is 637 Snow Hall.
-- I will be attending <a href="https://sites.google.com/view/kumunu-2024/home">KUMUNU</a> at the University of Missouri on September 28 and 29.
+- I will be attending the <a href="https://math.uark.edu/research/spring-lecture-series/index.php">Spring Lecture Series</a> at the University of Arkansas from May 15 to May 17.
+- I will be attending the <a href="https://www.slmath.org/summer-schools/1078">SLMath Summer School</a> at the Fields Institute from June 2 to June 13.
+- I will be attending the <a href="https://sites.google.com/view/singularitiesalggeom2025">Singularities in Algebra and Geometry</a> conference at CIMAT from June 16 to June 20.
 - I plan to keep this section updated for conferences I will be attending.
 
 
