@@ -10,12 +10,6 @@ I am a mathematics Ph.D. student at the University of Kansas. My advisor is <a h
 
 I work mainly in commutative algebra and homological algebra. Specifically, I am interested in local cohomology and related invariants. I also dabble in algebraic geometry and algebraic combinatorics.
 
-## Where To Find Me
-- My office is 637 Snow Hall.
-- I will be attending the <a href="https://math.uark.edu/research/spring-lecture-series/index.php">Spring Lecture Series</a> at the University of Arkansas from May 15 to May 17.
-- I will be attending the <a href="https://www.slmath.org/summer-schools/1078">SLMath Summer School</a> in commutative algebra at the Fields Institute from June 2 to June 13.
-- I will be attending the <a href="https://sites.google.com/view/singularitiesalggeom2025">Singularities in Algebra and Geometry</a> conference at CIMAT from June 16 to June 20.
-- I plan to keep this section updated for conferences I will be attending.
+## Where to Find Me
 
-
-
+My office is Snow 647 and my email is rehunter (at) KU (dot) edu.
