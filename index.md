@@ -12,4 +12,4 @@ I work mainly in commutative algebra and homological algebra. Specifically, I am
 
 ## Where to Find Me
 
-My office is Snow 647 and my email is rehunter (at) KU (dot) edu.
+My office is Snow 647. If I am planning to attend any specific conferences, I will add them here.
