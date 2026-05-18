@@ -8,7 +8,7 @@ I am a mathematics Ph.D. student at the University of Kansas. My advisor is <a h
 
 ## Research Interests
 
-I work mainly in commutative algebra and homological algebra. Specifically, I am interested in local cohomology and related invariants. I also dabble in algebraic geometry and algebraic combinatorics.
+I work mainly in commutative algebra, with a focus on local cohomology and related invariants. Specifically, I am interested in describing positive characteristic singularities via the Frobenius morphism, with applications to the theory of D-modules. I highly value explicit computation and concrete examples. I also dabble in algebraic geometry and algebraic combinatorics.
 
 ## Where to Find Me
 
