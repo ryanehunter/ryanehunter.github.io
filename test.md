@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: homepage
 ---
 
 test 123
