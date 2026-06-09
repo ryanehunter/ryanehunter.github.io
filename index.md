@@ -6,6 +6,8 @@ layout: homepage
 
 I am a mathematics Ph.D. student at the University of Kansas. My advisor is <a href="https://witt.ku.edu">Emily Witt</a>. I received my bachelors degrees in mathematics and in chemical engineering from the University of Arkansas in Fayetteville. In my free time I enjoy cooking, cycling, and playing disc golf.
 
+In the fall of 2026, I will be on the job market.
+
 ## Research Interests
 
 I work mainly in commutative algebra, with a focus on local cohomology and related invariants. Specifically, I am interested in describing positive characteristic singularities via the Frobenius morphism, with applications to the theory of D-modules. I highly value explicit computation and concrete examples. I also dabble in algebraic geometry and algebraic combinatorics.
