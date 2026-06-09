@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a mathematics Ph.D. student at the University of Kansas. My advisor is <a href="https://witt.ku.edu">Emily Witt</a>. I received my bachelors degrees in mathematics and in chemical engineering from the University of Arkansas in Fayetteville. In my free time I enjoy cooking, cycling, and playing disc golf.
+I am a mathematics Ph.D. student at the University of Kansas. My advisor is <a href="https://witt.ku.edu" target="_blank">Emily Witt</a>. I received my bachelors degrees in mathematics and in chemical engineering from the University of Arkansas in Fayetteville. In my free time I enjoy cooking, cycling, and playing disc golf.
 
 In the fall of 2026, I will be on the job market.
 
@@ -14,4 +14,4 @@ I work mainly in commutative algebra, with a focus on local cohomology and relat
 
 ## Where to Find Me
 
-My office is Snow 647. I will be speaking at <a  href="https://urica-unl.github.io">URiCA</a> the weekend of August 29/30. If I am planning to attend any other conferences, I will add them here.
+My office is Snow 647. I will be speaking at <a  href="https://urica-unl.github.io" target="_blank">URiCA</a> the weekend of August 29/30. If I am planning to attend any other conferences, I will add them here.
