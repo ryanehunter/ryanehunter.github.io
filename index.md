@@ -14,4 +14,4 @@ I work mainly in commutative algebra, with a focus on local cohomology and relat
 
 ## Where to Find Me
 
-My office is Snow 647. I will be speaking at <a  href="https://urica-unl.github.io" target="_blank">URiCA</a> the weekend of August 29/30. If I am planning to attend any other conferences, I will add them here.
+My office is Snow 620. I will be speaking at <a  href="https://urica-unl.github.io" target="_blank">URiCA</a> the weekend of August 29/30. If I am planning to attend any other conferences, I will add them here.
