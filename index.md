@@ -14,4 +14,12 @@ I work mainly in commutative algebra, with a focus on local cohomology and relat
 
 ## Where to Find Me
 
-My office is Snow 620. I will be speaking at <a  href="https://urica-unl.github.io" target="_blank">URiCA</a> the weekend of August 29/30. If I am planning to attend any other conferences, I will add them here.
+My office is Snow 620. 
+
+I will be speaking at <a  href="https://urica-unl.github.io" target="_blank">URiCA</a> in Lincoln, Nebraska, the weekend of August 29/30. 
+
+I will be in attendance at the <a href="https://sites.google.com/view/heartlandmathconference" target="_blank">Heartland Math Conference</a> in Manhattan, Kansas. the weekend of October 3/4.
+
+I will be speaking at the AMS Sectional in Tempe, Arizona, the weekend of November 7/8, as part of the <a href="https://www.ams.org/meetings/sectional/2335_program_ss38.html#title" target="_blank">Special Session on Singularities in Algebra and Geometry</a>.
+
+If I am planning to attend any other conferences, I will add them here.
