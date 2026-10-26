@@ -18,7 +18,7 @@ My office is Snow 620.
 
 I will be speaking at the AMS Sectional in Tempe, Arizona, the weekend of November 7/8, as part of the <a href="https://www.ams.org/meetings/sectional/2335_program_ss38.html#title" target="_blank">Special Session on Singularities in Algebra and Geometry</a>.
 
-I will be speaking at the algebra seminar at the University of Nebraska on Wednesday, November 18. I will be in Lincoln the day before and the day after, if you wish to meet and discuss math.
+I will be speaking at both the algebra seminar ("CAS") and the algebra reading seminar ("CARS") at the University of Nebraska on Wednesday, November 18. I will be in Lincoln the day before and the day after, if you wish to meet and discuss math.
 
 I will be speaking at the AMS Sectional in Iowa City, Iowa, the weekend of April 17/18 (2027), as part of the Special Session on Advances in Commutative Algebra and Singularity Theory.
 
