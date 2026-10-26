@@ -16,10 +16,10 @@ I work mainly in commutative algebra, with a focus on local cohomology and relat
 
 My office is Snow 620. 
 
-I will be in attendance at the <a href="https://sites.google.com/view/heartlandmathconference" target="_blank">Heartland Math Conference</a> in Manhattan, Kansas, the weekend of October 3/4.
-
-I will be in attendance at <a href="https://kumunualg2026.ku.edu" target="_blank">KUMUNU</a> in Lawrence, Kansas, the weekend of October 10/11.
-
 I will be speaking at the AMS Sectional in Tempe, Arizona, the weekend of November 7/8, as part of the <a href="https://www.ams.org/meetings/sectional/2335_program_ss38.html#title" target="_blank">Special Session on Singularities in Algebra and Geometry</a>.
+
+I will be speaking at the algebra seminar at the University of Nebraska on Wednesday, November 18. I will be in Lincoln the day before and the day after, if you wish to meet and discuss math.
+
+I will be speaking at the AMS Sectional in Iowa City, Iowa, the weekend of April 17/18 (2027), as part of the Special Session on Advances in Commutative Algebra and Singularity Theory.
 
 If I am planning to attend any other conferences, I will add them here.
